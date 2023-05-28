@@ -1,0 +1,14 @@
+{
+    "name": "acer/uts_tika",
+    "description": "UTS PBWL",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Aika sari br pa",
+            "email": "atikananngin880@gmail.com"
+        }
+    ]
+}
